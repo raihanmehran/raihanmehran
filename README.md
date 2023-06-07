@@ -42,7 +42,7 @@
 -->
 
 
-## Skills
+### Skills
 
 #### Front End
 [![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,angular,html,css,bootstrap&theme=light)](https://skills.thijs.gg)
@@ -51,13 +51,25 @@
 #### Miscellaneous
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,postman,bash,powershell,github,docker,flyio&theme=light)](https://skills.thijs.gg)
 
- #
- ## Algorithm Practice 
+ ####
+ #### Algorithm Practice - and it's growing! 📈
 <p align="center">
    <a href="https://leetcode.com/danJecu/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/mehran99?theme=dark" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/mehran99?theme=dark" alt="LeetCode Stats" height="200" width="400">
  </a>
 </p>
+
+<div class="container">
+  <div class="column">
+    <h2>Left Column</h2>
+    Add your content for the left column here
+  </div>
+  <div class="column">
+    <h2>Right Column</h2>
+    Add your content for the right column here
+  </div>
+</div>
+
 
 <!--
 **raihanmehran/raihanmehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
