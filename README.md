@@ -59,18 +59,6 @@
  </a>
 </p>
 
-<div class="container">
-  <div class="column">
-    <h2>Left Column</h2>
-    Add your content for the left column here
-  </div>
-  <div class="column">
-    <h2>Right Column</h2>
-    Add your content for the right column here
-  </div>
-</div>
-
-
 <!--
 **raihanmehran/raihanmehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
