@@ -45,7 +45,7 @@
 ### Skills
 
 #### Front End
-[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,angular,html,css,bootstrap&theme=light)](https://skills.thijs.gg)
+[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,angular,html,css,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
 #### Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=cs,dotnet,nodejs,postgres,mysql,sqlite&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
