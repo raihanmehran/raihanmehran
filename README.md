@@ -47,7 +47,7 @@
 #### Front End
 [![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,angular,html,css,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
 #### Back End
-[![Back-End-Skills](https://skills.thijs.gg/icons?i=cs,dotnet,nodejs,graphql,postgres,mysql,sqlite&theme=light)](https://skills.thijs.gg)
+[![Back-End-Skills](https://skills.thijs.gg/icons?i=cs,dotnet,nodejs,graphql,postgres,mysql,sqlite,azure&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,postman,bash,powershell,github,docker,flyio&theme=light)](https://skills.thijs.gg)
 
