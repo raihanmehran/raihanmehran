@@ -49,7 +49,7 @@
 #### Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=cs,dotnet,nodejs,graphql,postgres,mysql,sqlite,azure&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
-[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,postman,bash,powershell,github,docker,flyio&theme=light)](https://skills.thijs.gg)
+[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,postman,bash,powershell,github,docker,figma,miro,flyio&theme=light)](https://skills.thijs.gg)
 
  ####
  #### Algorithm Practice - and it's growing! 📈
