@@ -62,7 +62,7 @@
 <div>
   <img height="200" width="300" align="right" src="https://leetcard.jacoblin.cool/mehran99?theme=dark" alt="LeetCode Stats" >
   <img height="200" width="300" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanmehran&show_icons=true&theme=gruvbox" alt="Mehran's GitHub Stats"/>
-  <img height="200" width="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanmehran&theme=gruvbox&layout=compact" alt="Most Used Languages"/>
+  <img height="200" width="215" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanmehran&theme=gruvbox&layout=compact" alt="Most Used Languages"/>
 </div>
 
 <!--
