@@ -54,10 +54,16 @@
  ####
  #### Algorithm Practice - and it's growing! 📈
 <p align="center">
-   <a href="https://leetcode.com/danJecu/" target="_blank">
+   <a href="https://leetcode.com/mehran99/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/mehran99?theme=dark" alt="LeetCode Stats" height="200" width="400">
  </a>
 </p>
+
+<div>
+  <img height="200" width="300" align="right" src="https://leetcard.jacoblin.cool/mehran99?theme=dark" alt="LeetCode Stats" >
+  <img height="200" width="300" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanmehran&show_icons=true&theme=gruvbox" alt="Mehran's GitHub Stats"/>
+  <img height="100" width="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanmehran&theme=gruvbox&layout=compact" alt="Most Used Languages"/>
+</div>
 
 <!--
 **raihanmehran/raihanmehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
